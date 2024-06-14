@@ -1,0 +1,26 @@
+.homeContainer {
+  background-color: rgb(241, 241, 241);
+  font-weight: 500;
+  text-align: center;
+  width: 100%;
+  overflow-y: hidden;
+}
+
+.homeContent {
+  min-height: 100vh;
+  color: rgb(20, 20, 20);
+  padding-top: 65px;
+  display: flex;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+#home {
+  align-items: center;
+  background-color: rgb(203, 189, 255);
+  padding-top: 0px;
+}
+
+#about {
+  background-image: linear-gradient(rgb(203, 189, 255) 1%, rgb(241, 241, 241));
+}

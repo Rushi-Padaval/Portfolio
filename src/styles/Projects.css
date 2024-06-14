@@ -1,0 +1,124 @@
+#container {
+	width: 80%;
+    color: rgb(20, 20, 20);
+    margin-bottom: 150px;
+}
+
+
+.subtext {
+    font-size: 20px;
+    margin-top: 50px;
+    transition: all 0.2s ease;
+}
+
+.project {
+    display: flex;
+    flex-direction: row;
+}
+
+.project-sidebar {
+    margin-top: 0px;
+    margin-right: 20px;
+}
+
+.project-icon {
+    border: 2px solid rgb(203, 189, 255);
+    background-color: rgb(203, 189, 255);
+    padding: 5px;
+    border-radius: 100px;
+}
+
+.project-line {
+    border-left: 2px solid rgb(203, 189, 255);
+    margin-top: 7px;
+    margin-left: 17px;
+    height: 100%;
+}
+
+.project-content {
+    margin: 0;
+    align-items: center;
+}
+
+.project-header {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.project-stack {
+    font-size: 16px;
+    color: rgb(149, 149, 149);
+    margin-top: 5px;
+}
+
+.project-desc {
+    font-size: 18px;
+    color: rgb(98, 98, 98);
+}
+
+.project-links {
+    display: flex;
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.project-link {
+    display: flex;
+    color: rgb(60, 60, 60);
+    text-decoration: none;
+    transition: all 0.2s ease-out;
+    margin: 10px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: 2px solid rgb(199, 199, 199);
+    border-radius: 10px;
+    padding: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.project-link:hover {
+    color: rgb(81, 81, 81);
+    background-color: rgb(222, 222, 222);
+}
+
+#text {
+    display: flex;
+    flex-direction: column;
+	text-align: left;
+	width: 65%;
+    transition: all 0.2s ease;
+}
+
+@media (max-width: 830px) {
+    #text {
+		margin-top: 20px;
+	  	width: 100%;
+        align-self: center;
+    }
+    .subtext {
+        font-size: 16px;
+    }
+    .project-sidebar {
+        margin-top: 0px;
+        margin-right: 15px;
+    }
+    .project-line {
+        margin-top: 5px;
+        margin-left: 15px;
+    }
+    .project-header {
+        font-size: 18px;
+    }
+    .project-stack {
+        font-size: 14px;
+    }
+    .project-desc {
+        font-size: 16px;
+    }
+    .project-links {
+        font-size: 16px;
+    }
+}
