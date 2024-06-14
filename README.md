@@ -1,4 +1,4 @@
 # Personal Website
 
-Rushikesh Padaval portfolio / website.
+Rushikesh Padaval portfolio / website
 
