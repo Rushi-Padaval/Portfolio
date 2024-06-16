@@ -41,7 +41,7 @@ function About() {
                         , Reactjs and  Wordpress development.
 					</p>
 					<p className='about-section'>
-						Downloads: <a className='download' href='https://drive.google.com/file/d/1UVP6jtijCGIQoWJPHzPuC_h6Znmel2-K/view?usp=sharing' download>Resume</a>,
+						Downloads: <a className='download' href='https://drive.google.com/file/d/1-PzZjLyerBZeM993RfDug-2uoEeJFiCm/view?usp=sharing' download>Resume</a>,
 						{/* <a className='download' href=' ' download='Kevin_Kim_Transcript.pdf'> Transcript</a> */}
 					</p>
                     <p className='about-section' style={{ display: 'flex' }}>

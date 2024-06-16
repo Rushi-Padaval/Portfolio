@@ -10,7 +10,7 @@ const Coursework = [
         'grade': '7.23(CGPA)'
     },
     {
-        'code': '[SEM 6]',
+        'code': '[3rd Year]',
         'title': '73 %',
         'grade': 'PASS'
     },
