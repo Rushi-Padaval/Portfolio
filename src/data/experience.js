@@ -1,15 +1,13 @@
 const ExperienceList = [
     {
         "title": "Web Developer",
-        "company": "CodSoft",
-        "startDate": "Jan 2024",
-        "endDate": "Feb 2024",
-        "location": "Remote",
+        "company": "CodeSpeedy Techology PVT LTD ",
+        "startDate": "July 2024",
+        "endDate": "Present",
+        "location": "Kolkatta, India",
         "points": [
-            "Completed the tasks that given by company",
-            "Worked on the fronted devlopment projects mainly ",
-            "I learned how to fetch api's and how to create responsive websites",
-        
+            "This internship will starts from 10th July ",
+            
         ]
     },
     {
@@ -25,18 +23,20 @@ const ExperienceList = [
 
         ]
     },
+   
     {
         "title": "Web Developer",
-        "company": "CodeSpeedy Techology PVT LTD ",
-        "startDate": "July 2024",
-        "endDate": "Present",
-        "location": "Kolkatta, India",
+        "company": "CodSoft",
+        "startDate": "Jan 2024",
+        "endDate": "Feb 2024",
+        "location": "Remote",
         "points": [
-            "This internship will starts from 10th July ",
-            
+            "Completed the tasks that given by company",
+            "Worked on the fronted devlopment projects mainly ",
+            "I learned how to fetch api's and how to create responsive websites",
+        
         ]
     },
-   
 ];
 
 export default ExperienceList;
