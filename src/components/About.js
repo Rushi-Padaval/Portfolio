@@ -41,7 +41,7 @@ function About() {
                         , Reactjs and  Wordpress development.
 					</p>
 					<p className='about-section'>
-						Downloads: <a className='download' href='https://drive.google.com/file/d/1-RLBvYtAXgAG3YmSSMvCeyJEqAJbnd8x/view?usp=sharing' download>Resume</a>,
+						Downloads: <a className='download' href='' download>Resume</a>,
 					</p>
                     <p className='about-section' style={{ display: 'flex' }}>
                         <button onClick={dropdown} className='dropdown-button'>
