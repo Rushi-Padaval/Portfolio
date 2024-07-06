@@ -10,11 +10,11 @@ function Experience() {
 			</p>
             <p>
                 <h1>
-                    i'm fresher and looking for the experience i want a company where i learn the new things and new experience ready to work for free for internship .  
+                    
                 </h1>
             </p>
             
-			{/* <div className='content'>
+			<div className='content'>
 				<span id='text'>
                     { ExperienceList.map(experience => {
                         return(
@@ -45,7 +45,7 @@ function Experience() {
                         );
                     }) }
 				</span>
-			</div> */}
+			</div>
 		</div>
 	);
 }

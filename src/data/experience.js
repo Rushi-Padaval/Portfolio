@@ -1,53 +1,42 @@
 const ExperienceList = [
     {
-        "title": "System and Security Engineering Intern",
-        "company": "TrustThink",
+        "title": "Web Developer",
+        "company": "CodSoft",
         "startDate": "Jan 2024",
-        "endDate": "June 2024",
-        "location": "San Diego, CA",
+        "endDate": "Feb 2024",
+        "location": "Remote",
         "points": [
-            "Developing a FIPS 140-3 cryptographic API in C++ and OpenSSL that supports encryption, authentication, etc",
-            "Utilizing UART and TLS protocols to provide a security interface in C between an STM32 MCU and software",
-            "Ensuring 100% test code coverage for all libraries with GoogleTest for units and FuzzTest for memory checks",
-            "Maintaining a pen-test environment in Kali with clang-tidy, Valgrind and Binwalk for static and dynamic analysis"
+            "Completed the tasks that given by company",
+            "Worked on the fronted devlopment projects mainly ",
+            "I learned how to fetch api's and how to create responsive websites",
+        
         ]
     },
     {
-        "title": "Lead Software Engineer",
-        "company": "CSES WebDev",
-        "startDate": "Aug 2023",
-        "endDate": "Dec 2023",
-        "location": "La Jolla, CA",
+        "title": "Front-end Developer",
+        "company": "Synexoo",
+        "startDate": "July 2024",
+        "endDate": "Present",
+        "location": "Remote",
         "points": [
-            "Led a team of 5 developers and designers for CSES WebDev's website using React, Python and PostgreSQL",
-            "Ensured security for AWS S3 and RDS services by configuring VPC subnets to internal dev and prod scopes",
-            "Reduced feature bugs by 95% with over 100 automated unit and integration tests using Github Actions"
+            "Led a team of 4 developers and designers for Synexoo WebDev's website using Front-end Development",
+            "Currently i'm Developing the E-Commerce Website",
+            "And Improving my skills and knowledge in this field "
+
         ]
     },
     {
-        "title": "Instructional Assistant",
-        "company": "UC San Diego",
-        "startDate": "May 2023",
-        "endDate": "Dec 2023",
-        "location": "La Jolla, CA",
+        "title": "Web Developer",
+        "company": "CodeSpeedy Techology PVT LTD ",
+        "startDate": "July 2024",
+        "endDate": "Present",
+        "location": "Kolkatta, India",
         "points": [
-            "Taught and led 2 sections for First Year Experience to provide first years campus resources and general guidance",
-            "Supported over 30 students in 40+ office hours for professional and academic advice, referring specific resources",
-            "Assisted fellow discussion leaders with content and material by providing powerpoints and day plans in advance"
+            "This internship will starts from 10th July ",
+            
         ]
     },
-    {
-        "title": "Co-Founder",
-        "company": "Thoth Coding",
-        "startDate": "Dec 2019",
-        "endDate": "June 2021",
-        "location": "Barrington, RI",
-        "points": [
-            "Co-founded an organization with 3 peers to virtually teach programming basics to over 600 students globally",
-            "Tutored over 100 students on their final projects to guide and help with API use, OOD, structure, and syntax",
-            "Co-developed several interactive Java programs by pair programming to provide practical examples of concepts"
-        ]
-    }
+   
 ];
 
 export default ExperienceList;
