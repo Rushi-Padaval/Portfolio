@@ -43,7 +43,7 @@ function Home() {
                 </div>
             </div>
             <div className='home-arrow'>
-                <a href='#about'>
+                <a href='#About'>
                     <FaAngleDown style={{ fontSize: '30px', color: 'black' }} />
                 </a>
             </div>
