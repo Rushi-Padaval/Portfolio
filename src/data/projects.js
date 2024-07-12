@@ -1,9 +1,11 @@
 const ProjectList = [
     {
-        "title": "Data Compression",
-        "stack": "Java, HTML, CSS ",
-        "desc": "Data compression is the process of reducing the size of a data file such that it uses less space than the original file and can be transferred easily",
-        "github": "https://github.com/Rushi-Padaval/Data_Compression"
+        "title": "Weather Forecasting App",
+        "stack": "JavaScript , HTML, CSS ",
+        "desc": "THe Weathe Forecasting Web App is about showing the weather of the any city in the world",
+        "github": "https://github.com/Rushi-Padaval/weather-app",
+        "website": "https://weather-web-app-weld.vercel.app/"
+
     },
     {
         "title": "Gemini-Clone",
